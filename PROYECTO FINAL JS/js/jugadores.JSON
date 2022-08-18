@@ -1,0 +1,10 @@
+[
+    { "id": 1, "isco": "isco", "precio": 17.999, "imagen": "imagenes/zapa1.jpg", "promocion": "jugador devaluado" },
+    { "id": 2, "giroud": "giroud", "precio": 21.999, "imagen": "imagenes/zapa2.jpg", "promocion": "jugador devaluado" },
+    { "id": 3, "ben arfa": "ben arfa", "precio": 20.999, "imagen": "imagenes/zapa3.jpg", "promocion": "jugador devaluado" },
+    { "id": 4, "diego costa": "diego costa", "precio": 15.499, "imagen": "imagenes/zapa4.jpg", "promocion": "jugador devaluado" },
+    { "id": 5, "david luis": "david luis", "precio": 20.999, "imagen": "imagenes/zapa5.jpg", "promocion": "jugador devaluado" },
+    { "id": 6, "william": "william", "precio": 24.999, "imagen": "imagenes/zapa6.jpg", "promocion": "jugador devaluado" },
+    { "id": 7, "douglas costa": "douglas costa", "precio": 19.999, "imagen": "imagenes/zapa7.jpg", "promocion": "jugador devaluado" },
+    { "id": 8, "alexandre pato": "alexandre pato", "precio": 13.499, "imagen": "imagenes/zapa8.jpg", "promocion": "jugador devaluado" }
+]
